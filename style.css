@@ -9,6 +9,7 @@
     margin-right: auto;
     left: 0;
     right: 0;
+    background-color:purple;
 }
 
 hr {
@@ -30,7 +31,7 @@ body {
     font-size: 1.5em;
     font-family: "Crimson Text","Arial";
     line-height: 1.5;
-    background-color:red;
+    background-color:lightblu;
 }
 
 code {
